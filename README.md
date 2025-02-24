@@ -97,3 +97,25 @@ Here’s a brief overview of each section of the FreshFusion platform:
 - **Order History & Points:** Track your sustainable dining journey with past orders and rewards points.
 
 ### Example Screenshots
+
+![image](https://github.com/user-attachments/assets/74ec5ca2-328e-48bf-9280-762c144ea044)
+
+![image](https://github.com/user-attachments/assets/6dbe56ee-956d-4323-9392-b7084e1f7fbc)
+
+![image](https://github.com/user-attachments/assets/6e839ed7-0d09-46f0-991f-c81258e14628)
+
+![image](https://github.com/user-attachments/assets/a54db3ba-ac0d-4307-b80e-f59505604985)
+
+![image](https://github.com/user-attachments/assets/8ec71241-0058-489a-83d8-ff24333ebcad)
+
+![image](https://github.com/user-attachments/assets/3e4845fa-7e25-4043-8fdf-7c4ab0ea2530)
+
+![image](https://github.com/user-attachments/assets/455c6e83-862f-420d-8c7d-38bb7895d2ef)
+
+![image](https://github.com/user-attachments/assets/377b3e60-dd30-4277-a104-1f9210bdeaba)
+
+![image](https://github.com/user-attachments/assets/7017a9d4-f554-4f48-9374-7968afc5e6a9)
+
+![image](https://github.com/user-attachments/assets/8b08e65a-994a-486c-b1e5-f33370dbd403)
+
+![image](https://github.com/user-attachments/assets/b8a77949-73ea-4a5a-9192-727ecf2a0ed2)
